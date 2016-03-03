@@ -1,3 +1,3 @@
 # mix
 Various temporary items
-And not yet categorized items 
+and not yet categorized items 
